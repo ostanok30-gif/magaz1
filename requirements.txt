@@ -1,0 +1,5 @@
+aiohttp==3.9.1
+python-telegram-bot==20.7
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+gunicorn==21.2.0
